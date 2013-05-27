@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/165/trunk/appengine/templates
+END
+500.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/62/trunk/appengine/templates/500.html
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/62/trunk/appengine/templates/404.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/165/trunk/appengine/templates/index.html
+END
+apionly.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/appengine/templates/apionly.html
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/160/trunk/android/src/com/notifry/android/database
+END
+NotifryMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/111/trunk/android/src/com/notifry/android/database/NotifryMessage.java
+END
+NotifryDatabaseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/106/trunk/android/src/com/notifry/android/database/NotifryDatabaseAdapter.java
+END
+NotifryDatabaseAdapterAccounts.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/160/trunk/android/src/com/notifry/android/database/NotifryDatabaseAdapterAccounts.java
+END
+NotifryDatabaseAdapterSources.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/160/trunk/android/src/com/notifry/android/database/NotifryDatabaseAdapterSources.java
+END
+NotifryAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/151/trunk/android/src/com/notifry/android/database/NotifryAccount.java
+END
+NotifryDatabaseAdapterMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/160/trunk/android/src/com/notifry/android/database/NotifryDatabaseAdapterMessages.java
+END
+NotifrySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/106/trunk/android/src/com/notifry/android/database/NotifrySource.java
+END
+ORM.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/58/trunk/android/src/com/notifry/android/database/ORM.java
+END

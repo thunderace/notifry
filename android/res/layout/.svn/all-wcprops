@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/153/trunk/android/res/layout
+END
+style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/153/trunk/android/res/layout/style.xml
+END
+test_register_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/25/trunk/android/res/layout/test_register_screen.xml
+END
+source_list_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/92/trunk/android/res/layout/source_list_row.xml
+END
+screen_sources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/android/res/layout/screen_sources.xml
+END
+screen_sourcedetail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/66/trunk/android/res/layout/screen_sourcedetail.xml
+END
+stop_widget_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/android/res/layout/stop_widget_layout.xml
+END
+screen_message_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/66/trunk/android/res/layout/screen_message_detail.xml
+END
+screen_recent_messages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/39/trunk/android/res/layout/screen_recent_messages.xml
+END
+message_list_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/92/trunk/android/res/layout/message_list_row.xml
+END
+screen_home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/153/trunk/android/res/layout/screen_home.xml
+END
+screen_accounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26/trunk/android/res/layout/screen_accounts.xml
+END
+account_list_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/97/trunk/android/res/layout/account_list_row.xml
+END

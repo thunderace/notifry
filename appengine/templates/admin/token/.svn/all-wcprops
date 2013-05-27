@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/trunk/appengine/templates/admin/token
+END
+detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/appengine/templates/admin/token/detail.html
+END
+edit.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/appengine/templates/admin/token/edit.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/appengine/templates/admin/token/login.html
+END
+list.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/appengine/templates/admin/token/list.html
+END

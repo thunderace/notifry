@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/158/trunk/appengine/templates/pages
+END
+privacy.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/122/trunk/appengine/templates/pages/privacy.html
+END
+sla.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/122/trunk/appengine/templates/pages/sla.html
+END
+faq.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/122/trunk/appengine/templates/pages/faq.html
+END
+gettingstarted.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/122/trunk/appengine/templates/pages/gettingstarted.html
+END
+api.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/158/trunk/appengine/templates/pages/api.html
+END
+about.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/62/trunk/appengine/templates/pages/about.html
+END

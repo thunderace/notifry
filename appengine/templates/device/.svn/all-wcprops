@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/68/trunk/appengine/templates/device
+END
+delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/68/trunk/appengine/templates/device/delete.html
+END
+registration.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/68/trunk/appengine/templates/device/registration.html
+END
+deletecomplete.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/trunk/appengine/templates/device/deletecomplete.html
+END

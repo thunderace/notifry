@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/163/trunk/appengine/model
+END
+AC2DMAuthToken.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/114/trunk/appengine/model/AC2DMAuthToken.py
+END
+UserDevice.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/128/trunk/appengine/model/UserDevice.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/appengine/model/__init__.py
+END
+GeneralCounterShard.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/125/trunk/appengine/model/GeneralCounterShard.py
+END
+UserSource.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/134/trunk/appengine/model/UserSource.py
+END
+SourcePointer.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/130/trunk/appengine/model/SourcePointer.py
+END
+UserDevices.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/136/trunk/appengine/model/UserDevices.py
+END
+UserSources.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/136/trunk/appengine/model/UserSources.py
+END
+UserMessage.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/137/trunk/appengine/model/UserMessage.py
+END
+UserMessages.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/163/trunk/appengine/model/UserMessages.py
+END

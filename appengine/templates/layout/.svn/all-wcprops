@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/122/trunk/appengine/templates/layout
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/122/trunk/appengine/templates/layout/layout.html
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/122/trunk/appengine/templates/layout/header.html
+END

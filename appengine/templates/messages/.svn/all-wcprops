@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/156/trunk/appengine/templates/messages
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/156/trunk/appengine/templates/messages/index.html
+END
+send.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/137/trunk/appengine/templates/messages/send.html
+END
